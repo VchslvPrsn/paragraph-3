@@ -1,2 +1,2 @@
-// zone используется angular
+// zone РёСЃРїРѕР»СЊР·СѓРµС‚СЃСЏ angular
 import 'zone.js/dist/zone';
